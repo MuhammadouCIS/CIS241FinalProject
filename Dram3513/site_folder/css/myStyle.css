@@ -1,0 +1,78 @@
+/* Style Sheet For (personal website) */
+
+body 
+{
+font-family:arial, verdana, helvetica;
+color:#03183F;
+font-size:14px;
+margin: 0px;
+background-color:white;
+background-image: url('background4.jpg');
+}
+
+h1
+{
+font-weight: bold;
+color:#041155;
+font-size:30px;
+margin-bottom: 25px;
+margin-top:0px;
+}
+h2
+{
+font-weight: bold;
+color:#041155;
+text-decoration: italic;
+/*text-decoration: underline;*/
+font-size:40px;
+}
+img.right {
+display: block;
+float: right;
+margin-left:auto;
+margin-right:auto;
+height: 375px;
+width: 175px;
+} 
+img.left {
+display: block;
+float: left;
+margin-left:auto;
+margin-right:auto;
+height: 300px;
+width: 175px;
+} 
+
+h3
+{
+font-weight: bold;
+color:#041155;
+font-size:20px;
+margin-bottom: 25px;
+margin-top:0px;
+}
+h3
+
+h4
+{
+font-weight: bold;
+color:#041155;
+font-size:40px;
+margin-bottom: 25px;
+margin-top:0px;
+}	
+table
+{
+margin-right:auto;
+margin-left:auto;
+border:5px solid black;
+width: 75%
+}
+p
+{
+font-weight: bold;
+color:#041155;
+font-size:25px;
+margin-bottom: 25px;
+margin-top:0px;
+}
